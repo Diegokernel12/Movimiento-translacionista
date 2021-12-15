@@ -1,1 +1,1 @@
-# Movimiento-traslacionista
+# Movimiento-translacionista
